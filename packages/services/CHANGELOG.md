@@ -1,5 +1,11 @@
 # Change Log
 
+## 2.0.0-next.5
+
+### Patch Changes
+
+- [#1377](https://github.com/latticexyz/mud/pull/1377) [`33f50f8a`](https://github.com/latticexyz/mud/commit/33f50f8a473398dcc19b17d10a17a552a82678c7) Thanks [@alvrs](https://github.com/alvrs)! - Fixed an issue where the TypeScript types for createFaucetService were not exported correctly from the @latticexyz/services package
+
 ## 2.0.0-next.4
 
 ## 2.0.0-next.3
